@@ -1,10 +1,10 @@
 # Overwatch 3
 
-Overwatch 3 is my hobby project developed with ONLY Unreal Engine 4 Blueprint. I became so sick of Overwatch 2 delays that I decided to start developing Overwatch 3 myself. Hopefully before year 2030 I'll finish this grand project for people to play when they still don't have access to Overwatch 2. JK
+Overwatch 3 is my hobby project developed with ONLY Unreal Engine 4 Blueprint. I became so sick of Overwatch 2 delays that I decided to start developing Overwatch 3 myself. Hopefully before year 2030 I'll finish this grand project for people to play when they still don't have access to Overwatch 2. JK.
 
-(Another C++ unreal project is at https://github.com/legenary/UE4_CppDemo)
+(Another C++ Unreal project is [here](https://github.com/legenary/UE4_CppDemo).)
 
-(I also have C++ projects using Bullet physics engine here https://github.com/legenary/MuscleModel, and here https://github.com/legenary/WhiskerModel)
+(I also have two C++ projects using [Bullet physics engine](https://pybullet.org/wordpress/) (an open source physics engine both for making games and robotics research) [here (MuscleModel)](https://github.com/legenary/MuscleModel), and [here (WhiskerModel)](https://github.com/legenary/WhiskerModel).)
 
 
 <img src="Documents/birdview1.PNG" height="360px" width="615px" >
