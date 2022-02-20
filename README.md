@@ -1,6 +1,10 @@
 # Overwatch 3
 
-Overwatch 3 is my hobby project developed with only Unreal Engine 4 Blueprint. I became so sick of Overwatch 2 delays that I decided to start developing Overwatch 3 myself. Hopefully before year 2030 I'll finish this grand project for people to play when they still don't have access to Overwatch 2. JK
+Overwatch 3 is my hobby project developed with ONLY Unreal Engine 4 Blueprint. I became so sick of Overwatch 2 delays that I decided to start developing Overwatch 3 myself. Hopefully before year 2030 I'll finish this grand project for people to play when they still don't have access to Overwatch 2. JK
+
+(Another C++ unreal project is at https://github.com/legenary/UE4_CppDemo)
+
+(I also have C++ projects using Bullet physics engine here https://github.com/legenary/MuscleModel, and here https://github.com/legenary/WhiskerModel)
 
 
 <img src="Documents/birdview1.PNG" height="360px" width="615px" >
@@ -27,6 +31,7 @@ The user is able to switch the character by pressing `H` and select different ch
 This is a default Epic first person character. The type of ammo is a yellow projectile that bounces back at environment surfaces and deals damage when it hits other characters in the map. Maximum ammo: 5.
 
 <b>Soidler: </b> 
+
 This is a typical hitscan character. It shoots at wherever the crosshair is pointing to, despite of distance. The type of ammo is blue bullet that destroy itself no matter what it hits. It deals damage to other characets in the map. Maximum ammo: 21.
 
 ## 3. Enemy
