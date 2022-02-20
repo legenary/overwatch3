@@ -10,7 +10,7 @@ Okay so basically this is my practice to rebuild some of the features in Overwat
 
 1. HUD
 
-<img src="Documents/HUD.png" height="203px" width="444px" >
+<img src="Documents/HUD.png" height="360px" width="615px" >
 
 The game HUD is easy and simple. 
 
