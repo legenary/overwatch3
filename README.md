@@ -3,8 +3,8 @@
 Overwatch 3 is my hobby project developed with only Unreal Engine 4 Blueprint. I became so sick of Overwatch 2 delays that I decided to start developing Overwatch 3 myself. Hopefully before year 2030 I'll finish this grand project for people to play when they still don't have access to Overwatch 2. JK
 
 
-<img src="Documents/birdview1.PNG" height="540px" width="923px" >
-<img src="Documents/birdview2.PNG" height="540px" width="923px" >
+<img src="Documents/birdview1.PNG" height="360px" width="615px" >
+<img src="Documents/birdview2.PNG" height="360px" width="615px" >
 
 Okay so basically this is my practice to rebuild some of the features in Overwatch using Unreal Engine 4, including a basic layout for the practice range, some AI enemies, a basic UI and handful of heros in the hopefully near future. 
 
@@ -12,7 +12,7 @@ I'm not a good environment artist so the aesthetic is kept to minimum. After it 
 
 ## 1. HUD
 
-<img src="Documents/HUD.PNG" height="540px" width="923px" >
+<img src="Documents/HUD.PNG" height="360px" width="615px" >
 
 The game HUD is easy and simple. 
 
@@ -31,7 +31,7 @@ This is a typical hitscan character. It shoots at wherever the crosshair is poin
 
 ## 3. Enemy
 
-<img src="Documents/EnemyStanding.PNG" height="540px" width="923px" >
+<img src="Documents/EnemyStanding.PNG" height="360px" width="615px" >
 
 Like in Overwatch practice range, there are also standing enemies in the shooting range that keeps shooting, only they shoot when the player is in sight. 
 
@@ -39,7 +39,7 @@ They have floating health bars above the top of their head, visible to the playe
 
 ## 4. Shooting range
 
-<img src="Documents/shootingrange.PNG" height="540px" width="923px" >
+<img src="Documents/shootingrange.PNG" height="360px" width="615px" >
 
 The shooting range section of the map contains a basic elevator, activated when stepped on by the player character. The shooting range also contains several shooting tragets with the target itself physics enabled, i.e. the target will rotate when impulse from bullets are imposed. 
 
@@ -49,7 +49,7 @@ The shooting range also have one health patch that can restore 25 HP to the play
 
 ## 5. Playground
 
-<img src="Documents/playground.PNG" height="540px" width="923px" >
+<img src="Documents/playground.PNG" height="360px" width="615px" >
 
 Playground has a different architercture with several roaming enemy AI running back and forth following preset way points. The player character can also deal damages to these AIs. They will also respawn at the location of being killed and continue to roam between way points as the previous AI.
 
